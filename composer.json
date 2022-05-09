@@ -1,5 +1,5 @@
 {
-    "name": "simplesquid/nova-advanced-number-field",
+    "name": "jeffersonsimaogoncalves/nova-advanced-number-field",
     "description": "A Laravel Nova field which adds additional functionality to the default Number field.",
     "keywords": [
         "simplesquid",
