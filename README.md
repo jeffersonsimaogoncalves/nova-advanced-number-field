@@ -13,7 +13,7 @@ A Laravel Nova field which adds additional functionality to the default Number f
 You can install this package in a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require simplesquid/nova-advanced-number-field
+composer require jeffersonsimaogoncalves/nova-advanced-number-field
 ```
 
 ## Usage
